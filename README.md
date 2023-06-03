@@ -7,7 +7,7 @@ This project aims to predict the short-term high and low prices of the SPY ETF u
 
 ##  Data
 
-The project utilizes historical price data and a suite of technical indicators as input for the models. Different Jupyter Notebook comes with its corresponding dataset.
+The project utilizes historical price data and a suite of technical indicators as input for the models. Different Jupyter Notebooks come with their corresponding datasets.
 
 ## Models
 
@@ -28,9 +28,18 @@ Several models were implemented and tested in this project:
     - Hidden Markov Models (HMM)
 
 
+## Notebooks
+
+- .ipynb: Use Baseline Models and Advanced Models to predict next one hour price for SPY.
+
+- HMM.ipynb: Use HMM model to predict next one hour price for SPY. 
+
+- LSTM.ipynb: Train LSTM model to predict next one hour high price for SPY.
+
+
 ## Authors
 
-Algebros
+Team Algebros: Sailun Zhan, Xinwu Yang, Aolong Li, Amin Idelhaj, Zongze Liu
 
 
 ## License
