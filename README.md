@@ -31,7 +31,7 @@ Several models were implemented and tested in this project:
 
 ## Notebooks
 
-- .ipynb: Use Baseline Models and Advanced Models to predict next one hour price for SPY.
+- ML.ipynb: Use Baseline Models and Advanced Models to predict High/Low in next one hour for SPY.
 
 - HMM.ipynb: Use HMM model to predict next one hour price for SPY. 
 
