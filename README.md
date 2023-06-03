@@ -14,28 +14,35 @@ The project utilizes historical price data and a suite of technical indicators a
 
 Several models were implemented and tested in this project:
 
-- Baseline Models:
+- Baseline Model:
+    -Average Model
+
+- Advanced Models:
+    - Holt
+    - ARIMA 
     - Linear Regression
     - Ridge Regression
     - Lasso Regression
-
-- Advanced Models:
     - Random Forest
     - Support Vector Regression (SVR)
     - Extreme Gradient Boosting (XGBoost)
 
-- Time-Series Models:
+- Advanced Time-Series Models:
     - Long Short-Term Memory (LSTM)
     - Hidden Markov Models (HMM)
 
 
 ## Notebooks
 
-- ML.ipynb: Use Baseline Models and Advanced Models to predict High/Low in next one hour for SPY.
+- ML.ipynb: Use Advanced Models to predict High/Low for the next one hour for SPY.
 
 - HMM.ipynb: Use HMM model to predict next one hour price for SPY. 
 
 - LSTM.ipynb: Train LSTM model to predict next one hour high price for SPY.
+
+- Data.ipynb: Preproces and visualize some data.
+
+- Data2.ipynb: Prepare train sets and test sets.
 
 
 ## Authors
