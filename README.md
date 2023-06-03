@@ -9,6 +9,7 @@ This project aims to predict the short-term high and low prices of the SPY ETF u
 
 The project utilizes historical price data and a suite of technical indicators as input for the models. Different Jupyter Notebooks come with their corresponding datasets.
 
+
 ## Models
 
 Several models were implemented and tested in this project:
@@ -42,6 +43,8 @@ Several models were implemented and tested in this project:
 Team Algebros: Sailun Zhan, Xinwu Yang, Aolong Li, Amin Idelhaj, Zongze Liu
 
 
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
