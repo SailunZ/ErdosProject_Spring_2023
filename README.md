@@ -15,7 +15,7 @@ The project utilizes historical price data and a suite of technical indicators a
 Several models were implemented and tested in this project:
 
 - Baseline Model:
-    -Average Model
+    - Average Model
 
 - Advanced Models:
     - Holt
